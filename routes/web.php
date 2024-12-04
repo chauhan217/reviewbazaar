@@ -6,7 +6,7 @@ use App\Http\Controllers\LoginController;
 use App\Http\Controllers\Admin\CategoryController;
 use App\Http\Controllers\Admin\BlogController;
 use App\Http\Controllers\Admin\CompanyController;
-use App\Http\Controllers\ReviewController; 
+use App\Http\Controllers\ReviewController;
 
 
 
